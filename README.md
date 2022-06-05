@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **brahmjots111@gmail.com**
 
-- 📄 My experiences [Executive and COO at Cosmocraft (Closed) {br} Co-owner at Neutronia Network](Executive and COO at Cosmocraft (Closed) {br} Co-owner at Neutronia Network)
+- 📄 My experiences - Executive and COO at Cosmocraft (Closed) <br> Co-owner at Neutronia Network
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
