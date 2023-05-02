@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm RealBJsingh (Brahmjot Singh)</h1>
 <h3 align="center">Student, Persuing BCA (Bachelor of Computer Application)</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RealBJsingh&label=Profile%20views&color=ff0000&style=flat" alt="realbjsingh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BrahmjotSingh0&label=Profile%20views&color=ff0000&style=flat" alt="BrahmjotSingh0" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RealBJsingh" alt="realbjsingh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrahmjotSingh0" alt="BrahmjotSingh0" /></a> </p>
 
-- 🌱 I’m currently learning **C and Python**
+- 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my Public projects are available at [https://github.com/RealBJsingh](https://github.com/RealBJsingh)
+- 👨‍💻 All of my Public projects are available at [https://github.com/BrahmjotSingh0](https://github.com/BrahmjotSingh0)
 
 - 📫 How to reach me **brahmjots111@gmail.com**
-
-- 📄 My experiences - Executive and COO at Cosmocraft (Closed) <br> Co-owner at Neutronia Network
 
 
 
