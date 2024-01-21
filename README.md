@@ -8,7 +8,7 @@ Some of my repositories are made to public and for everyone, check them out!
 
 
 ## 🛠 Skills
-Javascript, Html, Css, Php and C. Currently Learning C++ and Database Management.
+Fluent in PHP, JavaScript, HTML, CSS, C, C++, MySQL, and SQL, I possess a well-rounded skill set encompassing both web development and programming. Proficient in creating dynamic websites and managing robust databases, I bring versatility to the world of software development.
 
 
 ## Acknowledgements
@@ -21,6 +21,7 @@ Javascript, Html, Css, Php and C. Currently Learning C++ and Database Management
 - Discord: RealBJsingh
 - Twitter: RealBJsingh1
 - Email: brahmjots111@gmail.com
+- Linkedin: [brahmjot-singh1](https://linkedin.com/in/brahmjot-singh1)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmjotsingh0&label=Profile%20views&color=0e75b6&style=flat" alt="brahmjotsingh0" /> </p>
