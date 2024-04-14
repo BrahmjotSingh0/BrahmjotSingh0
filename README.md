@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **brahmjots111@gmail.com**
 
+<h3 align="left"> Projects </h3>
+- (Quick Resume)[https://quickresumehack.netlify.app]: A website which allows anyone to create resume online quickly! 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/brahmjotsingh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brahmjotsingh0" height="30" width="40" /></a>
