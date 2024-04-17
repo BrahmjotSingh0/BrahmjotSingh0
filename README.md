@@ -12,7 +12,7 @@
 - 📫 How to reach me **brahmjots111@gmail.com**
 
 <h3 align="left"> Projects </h3>
-- (Quick Resume)[https://quickresumehack.netlify.app]: A website which allows anyone to create resume online quickly! 
+- (Quick Resume)[https://quickresumehack.netlify.app]: A website which allows anyone to create resume online quickly! <br>
 - (Hypixel Auction Tax Calculator)[https://auction-tax.netlify.app]: A website which allows anyone to calculate auction tax of hypxiel skyblock.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
