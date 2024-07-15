@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and C++**
 
-- 👨‍💻 My portofolio is available at [https://brahmjot.netlify.app/](https://brahmjot.netlify.app/)
+- 👨‍💻 My portofolio is available at [https://brahmjotsingh.me](https://brahmjotsingh.me)
 
 - 📫 How to reach me **brahmjots111@gmail.com**
 
