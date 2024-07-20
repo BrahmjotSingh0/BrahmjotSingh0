@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portofolio is available at [https://brahmjotsingh.me](https://brahmjotsingh.me)
 
-- 📫 How to reach me **brahmjots111@gmail.com**
+- 📫 How to reach me **mail@brahmjotsingh.me**
 
 <h3 align="left"> Projects </h3>
 - (Quick Resume)[https://quickresumehack.netlify.app]: A website which allows anyone to create resume online quickly! <br>
