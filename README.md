@@ -33,6 +33,7 @@ Here are some of my **coolest** projects!
 | **[Tambola Game](https://brahmjotsingh.me)** | Online multiplayer Tambola game | React, Socket.io | [🔗 View](https://brahmjotsingh.me) |
 | **[Chat App](https://brahmjotsingh.me)** | Real-time chat application | React, Firebase | [🔗 View](https://brahmjotsingh.me) |
 | **[Utility tools](https://tools-utility.netlify.app/)** | Useful tools for daily task | React | [🔗 View](https://tools-utility.netlify.app/) |
+| **[AIResumeBuilder](https://aibuildresume.netlify.app/builder)** | Create Resume with Ai | MERN | [🔗 View](https://aibuildresume.netlify.app/builder) |
 
 
 🔗 **More Projects**: [GitHub Repos](https://github.com/BrahmjotSingh0)  
