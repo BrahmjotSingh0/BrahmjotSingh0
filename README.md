@@ -26,14 +26,17 @@ I love creating **tools that make life easier!** 🚀
 Here are some of my **coolest** projects!  
 
 | Project | Description | Tech Stack | Live Demo |
-|---------|------------|------------|-----------|
-| **[Quick Resume](https://quickresumehack.netlify.app)** | Instantly generate resumes | React, Node.js, Express | [🔗 View](https://quickresumehack.netlify.app) |
-| **[Postitup](https://postitup.netlify.app)** | A social media platform with Google OAuth | React, MongoDB, Express, Node.js | [🔗 View](https://postitup.netlify.app) |
-| **[Hypixel Auction Tax Calculator](https://auction-tax.netlify.app)** | Calculate auction taxes in Hypixel Skyblock | React | [🔗 View](https://auction-tax.netlify.app) |
-| **[Tambola Game](https://brahmjotsingh.me)** | Online multiplayer Tambola game | React, Socket.io | [🔗 View](https://brahmjotsingh.me) |
-| **[Chat App](https://brahmjotsingh.me)** | Real-time chat application | React, Firebase | [🔗 View](https://brahmjotsingh.me) |
-| **[Utility tools](https://tools-utility.netlify.app/)** | Useful tools for daily task | React | [🔗 View](https://tools-utility.netlify.app/) |
-| **[AIResumeBuilder](https://aibuildresume.netlify.app/builder)** | Create Resume with Ai | MERN | [🔗 View](https://aibuildresume.netlify.app/builder) |
+| --- | --- | --- | --- |
+| **Quick Resume** | Instantly generate resumes | React, Node.js, Express | 🔗 View |
+| **Postitup** | A social media platform with Google OAuth | React, MongoDB, Express, Node.js | 🔗 View |
+| **Hypixel Auction Tax Calculator** | Calculate auction taxes in Hypixel Skyblock | React | 🔗 View |
+| **Tambola Game** | Online multiplayer Tambola game | React, Socket.IO | 🔗 View |
+| **Chat App** | Real-time chat application | React, Firebase | 🔗 View |
+| **Utility Tools** | Useful tools for daily tasks | React | 🔗 View |
+| **AI Resume Builder** | Create resumes with AI | MERN, Gemini AI | 🔗 View |
+| **Wapp** | Fake WhatsApp message creator for fun | React | 🔗 View |
+| **Image Text Extractor** | AI-powered text extraction from images | React, OpenCV, AI | 🔗 View |
+
 
 
 🔗 **More Projects**: [GitHub Repos](https://github.com/BrahmjotSingh0)  
