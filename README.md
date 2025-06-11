@@ -25,17 +25,19 @@ I love creating **tools that make life easier!** 🚀
 ## 🚀 Projects  
 Here are some of my **coolest** projects!  
 
-| Project | Description | Tech Stack | Live Demo |
-| --- | --- | --- | --- |
-| **Quick Resume** | Instantly generate resumes | React, Node.js, Express | 🔗 View |
-| **Postitup** | A social media platform with Google OAuth | React, MongoDB, Express, Node.js | 🔗 View |
-| **Hypixel Auction Tax Calculator** | Calculate auction taxes in Hypixel Skyblock | React | 🔗 View |
-| **Tambola Game** | Online multiplayer Tambola game | React, Socket.IO | 🔗 View |
-| **Chat App** | Real-time chat application | React, Firebase | 🔗 View |
-| **Utility Tools** | Useful tools for daily tasks | React | 🔗 View |
-| **AI Resume Builder** | Create resumes with AI | MERN, Gemini AI | 🔗 View |
-| **Wapp** | Fake WhatsApp message creator for fun | React | 🔗 View |
-| **Image Text Extractor** | AI-powered text extraction from images | React, OpenCV, AI | 🔗 View |
+| Project                            | Description                                          | Tech Stack                       | Live Demo                                                       |
+| ---------------------------------- | ---------------------------------------------------- | -------------------------------- | --------------------------------------------------------------- |
+| **Quick Resume**                   | Instantly generate resumes                           | React, Node.js, Express          | [🔗 View](https://quickresumehack.netlify.app/)                 |
+| **Postitup**                       | A social media platform with Google OAuth            | React, MongoDB, Express, Node.js | [🔗 View](https://postitup.netlify.app/)                        |
+| **Hypixel Auction Tax Calculator** | Calculate auction taxes in Hypixel Skyblock          | React                            | [🔗 View](https://auction-tax.netlify.app/)                     |
+| **Tambola Game**                   | Online multiplayer Tambola game                      | React, Socket.IO                 | 🔗 Coming Soon                                                  |
+| **Chat App**                       | Real-time chat application                           | React, Firebase                  | 🔗 Coming Soon                                                  |
+| **Utility Tools**                  | Useful tools for daily tasks                         | React                            | [🔗 View](https://tools-utility.netlify.app/)                   |
+| **AI Resume Builder**              | Create resumes with AI                               | MERN, Gemini AI                  | [🔗 View](https://aibuildresume.netlify.app/)                   |
+| **Wapp**                           | Fake WhatsApp message creator for fun                | React                            | [🔗 View](https://fakemessagetoolwhats-app.netlify.app/)        |
+| **Image Text Extractor**           | AI-powered text extraction from images               | React, OpenCV, AI                | [🔗 View](https://image-text-extractor2.vercel.app/)            |
+| **aishe-institutions-list**        | NPM package to access Indian institutions from AISHE | Node.js, JSON, Fuzzy Search      | [📦 NPM](https://www.npmjs.com/package/aishe-institutions-list) |
+
 
 
 
