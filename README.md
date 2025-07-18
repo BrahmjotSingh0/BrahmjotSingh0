@@ -3,8 +3,8 @@
 
 🎓 **BCA Student (2022-2025)**  
 🌱 Learning **Full Stack Development (MERN Stack)**  
-💻 **Portfolio**: [brahmjotsingh.me](https://brahmjotsingh.me)  
-📧 **Contact**: [mail@brahmjotsingh.me](mailto:mail@brahmjotsingh.me)  
+💻 **Portfolio**: [brahmjotsingh.dev](https://brahmjotsingh.dev)  
+📧 **Contact**: [mail@brahmjotsingh.dev](mailto:mail@brahmjotsingh.dev)  
 
 🔭 **Currently Working On**:  
 - Building **MERN Stack** applications.  
