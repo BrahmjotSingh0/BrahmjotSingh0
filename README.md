@@ -1,100 +1,127 @@
-# 💫 About Me  
-### 👋 Hey, I'm **Brahmjot Singh** (aka **RealBJsingh**)  
-
-🎓 **BCA Student (2022-2025)**  
-🌱 Learning **Full Stack Development (MERN Stack)**  
-💻 **Portfolio**: [brahmjotsingh.dev](https://brahmjotsingh.dev)  
-📧 **Contact**: [mail@brahmjotsingh.dev](mailto:mail@brahmjotsingh.dev)  
-
-🔭 **Currently Working On**:  
-- Building **MERN Stack** applications.  
-- Exploring **scalable backend architectures**.  
-
-🤝 **Looking to Collaborate On**:  
-- Full Stack Projects  
-- Open Source Contributions  
-
-💬 **Ask Me About**:  
-- **MERN Stack, Full Stack Dev, or BCA-related topics**.  
-
-⚡ **Fun Fact**:  
-I love creating **tools that make life easier!** 🚀  
-
----
-
-## 🚀 Projects  
-Here are some of my **coolest** projects!  
-
-| Project                            | Description                                          | Tech Stack                       | Live Demo                                                       |
-| ---------------------------------- | ---------------------------------------------------- | -------------------------------- | --------------------------------------------------------------- |
-| **Quick Resume**                   | Instantly generate resumes                           | React, Node.js, Express          | [🔗 View](https://quickresumehack.netlify.app/)                 |
-| **Postitup**                       | A social media platform with Google OAuth            | React, MongoDB, Express, Node.js | [🔗 View](https://postitup.netlify.app/)                        |
-| **Hypixel Auction Tax Calculator** | Calculate auction taxes in Hypixel Skyblock          | React                            | [🔗 View](https://auction-tax.netlify.app/)                     |
-| **Tambola Game**                   | Online multiplayer Tambola game                      | React, Socket.IO                 | 🔗 Coming Soon                                                  |
-| **Chat App**                       | Real-time chat application                           | React, Firebase                  | 🔗 Coming Soon                                                  |
-| **Utility Tools**                  | Useful tools for daily tasks                         | React                            | [🔗 View](https://tools-utility.netlify.app/)                   |
-| **AI Resume Builder**              | Create resumes with AI                               | MERN, Gemini AI                  | [🔗 View](https://aibuildresume.netlify.app/)                   |
-| **Wapp**                           | Fake WhatsApp message creator for fun                | React                            | [🔗 View](https://fakemessagetoolwhats-app.netlify.app/)        |
-| **Image Text Extractor**           | AI-powered text extraction from images               | React, OpenCV, AI                | [🔗 View](https://image-text-extractor2.vercel.app/)            |
-| **aishe-institutions-list**        | NPM package to access Indian institutions from AISHE | Node.js, JSON, Fuzzy Search      | [📦 NPM](https://www.npmjs.com/package/aishe-institutions-list) |
-
-
-
-
-🔗 **More Projects**: [GitHub Repos](https://github.com/BrahmjotSingh0)  
-
----
-
-## 🛠️ **Tech Stack**  
-
-### 🚀 **Languages**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%23512BD4.svg?style=flat&logo=dot-net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-
-### 🎨 **Frontend**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dot-net&logoColor=white)  
-
-### 🛠 **Backend & Frameworks**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)  
-
-### 🛢 **Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
-
-### 🛠 **DevOps & Hosting**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)  
-
-### 🎨 **Design & UI/UX**  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)  
-
-### ⚙️ **Tools & Libraries**  
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrahmjotSingh0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrahmjotSingh0&theme=tokyonight&hide_border=false" width="48%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrahmjotSingh0&theme=tokyonight&hide_border=false&layout=compact" width="48%" />
-</div>  
+
+# Brahmjot Singh
+
+**Software Development Engineer @ UptoSkills · BCA 2022–2025**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-brahmjotsingh.dev-black?style=flat-square&logo=vercel)](https://brahmjotsingh.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/brahmjot-singh1)
+[![Email](https://img.shields.io/badge/Email-mail@brahmjotsingh.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@brahmjotsingh.dev)
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrahmjotSingh0&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</p>  
+## About
+
+Software Development Engineer at **UptoSkills**, with a focus on backend engineering, system architecture, and DevOps. I enjoy designing systems that are reliable, scalable, and easy to maintain — currently completing my BCA while working in a production environment.
+
+- 💼 SDE at UptoSkills — building and maintaining backend systems
+- 🏗️ Interested in system design, clean architecture, and infrastructure
+- 🚀 Comfortable across the stack, strongest on the backend and DevOps side
+- 🤝 Open to collaborations on open source and interesting engineering problems
 
 ---
 
-## 🎯 Random Dev Quote  
-<p align="center">
+## Projects
+
+| Project | Description | Stack | Demo |
+|---|---|---|---|
+| **Quick Resume** | Instant resume generator | React, Node.js, Express | [View →](https://quickresumehack.netlify.app/) |
+| **AI Resume Builder** | AI-powered resume creation | MERN, Gemini AI | [View →](https://aibuildresume.netlify.app/) |
+| **Postitup** | Social media platform with Google OAuth | React, MongoDB, Express, Node.js | [View →](https://postitup.netlify.app/) |
+| **Image Text Extractor** | AI-powered OCR from images | React, OpenCV, AI | [View →](https://image-text-extractor2.vercel.app/) |
+| **Tambola Game** | Online multiplayer Tambola | React, Socket.IO | Coming Soon |
+| **Chat App** | Real-time messaging app | React, Firebase | Coming Soon |
+| **Hypixel Auction Tax Calculator** | Auction tax tool for Hypixel Skyblock | React | [View →](https://auction-tax.netlify.app/) |
+| **Utility Tools** | Collection of daily-use tools | React | [View →](https://tools-utility.netlify.app/) |
+| **Wapp** | Fake WhatsApp message creator | React | [View →](https://fakemessagetoolwhats-app.netlify.app/) |
+| **aishe-institutions-list** | NPM package for Indian institutions from AISHE | Node.js, JSON, Fuzzy Search | [NPM →](https://www.npmjs.com/package/aishe-institutions-list) |
+
+🔗 **More:** [github.com/BrahmjotSingh0](https://github.com/BrahmjotSingh0)
+
+---
+
+## Tech Stack
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrahmjotSingh0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrahmjotSingh0&theme=tokyonight&hide_border=true" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrahmjotSingh0&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BrahmjotSingh0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+---
+
+## Dev Quote
+
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>  
+</div>
 
 ---
 
-## 📢 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brahmjot-singh1)  
-
-💻 **Let's Build Something Amazing!** 🚀  
+<div align="center">
+  <sub>Open to opportunities · Let's build something great together</sub>
+</div>
