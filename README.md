@@ -2,10 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Brahmjot%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Backend%20%C2%B7%20Architecture%20%C2%B7%20DevOps&descSize=16&descAlignY=57&animation=fadeIn" />
 
 <div align="center">
-
 <!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
 <a href="https://brahmjotsingh.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+backend+systems+that+scale;System+design+%C2%B7+Clean+architecture+%C2%B7+Infrastructure;SDE+%40+UptoSkills+%7C+BCA+2022-2025;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=780&lines=Building+backend+systems+that+scale.;System+design+%C2%B7+Clean+architecture+%C2%B7+Infrastructure;Lead+SDE+%40UptoSkills+%7C+BCA+2022-2025;Always+shipping%2C+always+learning." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,14 +20,17 @@
 
 <br/><br/>
 
-<a href="https://brahmjotsingh.dev">
+<a href="https://brahmjotsingh.site">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://linkedin.com/in/brahmjot-singh1">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:mail@brahmjotsingh.dev">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:mail@brahmjotsingh.site">
+  <img src="https://img.shields.io/badge/Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
+</a>
+<a href="mailto:brahmjot@uptoskills.in">
+  <img src="https://img.shields.io/badge/Work-1F6FEB?style=for-the-badge&logo=maildotru&logoColor=white" alt="Work Email" />
 </a>
 <a href="https://www.npmjs.com/~brahmjotsingh0">
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
@@ -56,22 +58,27 @@ const brahmjot = {
   education   : "BCA · 2022 – 2025",
   location    : "India 🇮🇳",
 
-  focus       : ["Backend Engineering", "System Architecture", "DevOps"],
+  focus       : ["Full-Stack Engineering", "Infrastructure", "DevOps"],
 
   skills      : {
-    languages : ["JavaScript", "TypeScript", "Java", "C++", "C#", "PHP"],
-    backend   : ["Node.js", "Express", "Socket.IO", "REST APIs"],
-    frontend  : ["React", "Next.js", "Angular", "React Native", "Tailwind"],
-    databases : ["MongoDB", "MySQL", "SQLite", "Oracle"],
-    devops    : ["Git", "Docker-ready workflows", "Cloudflare", "Vercel", "Render"]
+    languages : ["JavaScript", "TypeScript", "Python", "Java", "PHP", "C", "C++"],
+    backend   : ["Node.js", "Express", "REST APIs", "Socket.IO", "Auth & Sessions"],
+    frontend  : ["React", "Next.js", "React Native", "Tailwind", "HTML", "CSS"],
+    databases : ["MongoDB", "PostgreSQL", "MySQL", "SQL"],
+    infra     : ["AWS", "Ubuntu / Linux VMs", "Nginx", "Docker", "Cloudflare", "DNS & Domains"],
+    devops    : ["Git", "CI/CD Pipelines", "Prometheus", "Grafana", "Monitoring & Alerting"]
   },
 
   currently   : "Designing systems that are reliable, scalable & maintainable",
-  openTo      : ["Open Source", "Collaboration", "Hard engineering problems"],
+
+  openTo      : ["Open Source", "Collaboration", "Independent Projects"],
 
   philosophy  : "Boring infrastructure is good infrastructure.",
 
-  contact     : () => "mail@brahmjotsingh.dev"
+  contact     : {
+    personal  : "mail@brahmjotsingh.site",
+    work      : "brahmjot@uptoskills.in"
+  }
 };
 
 console.log(`👋 Hey, I'm ${brahmjot.name} — let's build something great.`);
@@ -90,39 +97,27 @@ console.log(`👋 Hey, I'm ${brahmjot.name} — let's build something great.`);
 <table align="center">
   <tr>
     <td align="center" width="140"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,socketio,graphql&theme=dark" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,socketio,py&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,vite&theme=dark" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c,cs,php&theme=dark" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,py,java,php,c,cpp&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis&theme=dark" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center"><b>DevOps &amp; Cloud</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,cloudflare,vercel,netlify,heroku,linux&theme=dark" />
-    </td>
+    <td align="center"><b>Infra &amp; Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,nginx,docker,cloudflare&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=figma,postman,npm,vscode&theme=dark" />
-    </td>
+    <td align="center"><b>DevOps &amp; Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,grafana,postman,vscode&theme=dark" /></td>
   </tr>
 </table>
 
@@ -131,109 +126,26 @@ console.log(`👋 Hey, I'm ${brahmjot.name} — let's build something great.`);
 </div>
 
 <!-- ══════════════════ PROJECTS ══════════════════ -->
-
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> &nbsp;Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 Quick Resume
-Instant resume generator with clean export templates.
-
-`React` `Node.js` `Express`
-
-[**Live Demo →**](https://quickresumehack.netlify.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Resume Builder
-AI-assisted resume creation powered by Gemini.
-
-`MERN` `Gemini AI`
-
-[**Live Demo →**](https://aibuildresume.netlify.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Postitup
-Full social platform with Google OAuth & feeds.
-
-`React` `MongoDB` `Express` `Node.js`
-
-[**Live Demo →**](https://postitup.netlify.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 Image Text Extractor
-AI-powered OCR pipeline for extracting text from images.
-
-`React` `OpenCV` `AI`
-
-[**Live Demo →**](https://image-text-extractor2.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 aishe-institutions-list
-NPM package exposing all Indian institutions from AISHE with fuzzy search.
-
-`Node.js` `JSON` `Fuzzy Search`
-
-[**View on NPM →**](https://www.npmjs.com/package/aishe-institutions-list)
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Hypixel Auction Tax Calculator
-Auction house tax calculator for Skyblock traders.
-
-`React`
-
-[**Live Demo →**](https://auction-tax.netlify.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ Utility Tools
-A growing collection of daily-use developer tools.
-
-`React`
-
-[**Live Demo →**](https://tools-utility.netlify.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Wapp
-Fake WhatsApp conversation generator for mockups.
-
-`React`
-
-[**Live Demo →**](https://fakemessagetoolwhats-app.netlify.app/)
-
-</td>
-</tr>
-</table>
+| Project | What it does | Stack | |
+|---|---|---|---|
+| **📄 Quick Resume** | Instant resume generator with clean export templates | `React` `Node` `Express` | [Live →](https://quickresumehack.netlify.app/) |
+| **🤖 AI Resume Builder** | AI-assisted resume creation powered by Gemini | `MERN` `Gemini AI` | [Live →](https://aibuildresume.netlify.app/) |
+| **🌐 Postitup** | Social platform with Google OAuth & feeds | `React` `MongoDB` `Node` | [Live →](https://postitup.netlify.app/) |
+| **🔍 Image Text Extractor** | OCR pipeline for pulling text out of images | `React` `OpenCV` `AI` | [Live →](https://image-text-extractor2.vercel.app/) |
+| **📦 aishe-institutions-list** | NPM package — all Indian institutions, fuzzy searchable | `Node` `JSON` | [NPM →](https://www.npmjs.com/package/aishe-institutions-list) |
+| **💰 Auction Tax Calculator** | Tax calculator for Hypixel Skyblock traders | `React` | [Live →](https://auction-tax.netlify.app/) |
+| **🛠️ Utility Tools** | Growing collection of daily-use dev tools | `React` | [Live →](https://tools-utility.netlify.app/) |
+| **💬 Wapp** | Fake WhatsApp conversation generator for mockups | `React` | [Live →](https://fakemessagetoolwhats-app.netlify.app/) |
 
 <details>
-<summary><b>🚧 In Progress — click to expand</b></summary>
+<summary><b>🚧 In Progress</b></summary>
 
-<br/>
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| **Tambola Game** | Online multiplayer Tambola with live rooms | `React` `Socket.IO` | 🔨 Building |
-| **Chat App** | Real-time messaging with presence & typing indicators | `React` `Firebase` | 🔨 Building |
+| Project | Description | Stack |
+|---|---|---|
+| **Tambola Game** | Online multiplayer Tambola with live rooms | `React` `Socket.IO` |
+| **Chat App** | Real-time messaging with presence & typing indicators | `React` `Firebase` |
 
 </details>
 
