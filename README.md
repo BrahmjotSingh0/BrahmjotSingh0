@@ -165,8 +165,8 @@ console.log(`👋 Hey, I'm ${brahmjot.name} — let's build something great.`);
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BrahmjotSingh0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true&count_private=true" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrahmjotSingh0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BrahmjotSingh0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true&count_private=true" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrahmjotSingh0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" /> -->
 
 <br/>
 
@@ -174,7 +174,7 @@ console.log(`👋 Hey, I'm ${brahmjot.name} — let's build something great.`);
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrahmjotSingh0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true" />
+<!-- <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrahmjotSingh0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true" /> -->
 
 </div>
 
@@ -207,7 +207,7 @@ console.log(`👋 Hey, I'm ${brahmjot.name} — let's build something great.`);
 I'm always open to interesting conversations — open source, system design,
 or just a good engineering problem worth arguing about.
 
-<a href="mailto:mail@brahmjotsingh.dev">
+<a href="mailto:mail@brahmjotsingh.site">
   <img src="https://img.shields.io/badge/Say%20Hello-mail%40brahmjotsingh.dev-36BCF7?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=0d1117" />
 </a>
 
