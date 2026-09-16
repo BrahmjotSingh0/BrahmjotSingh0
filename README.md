@@ -125,6 +125,7 @@ console.log(`👋 Hey, I'm ${brahmjot.name} — let's build something great.`);
 
 | Project | What it does | Stack | |
 |---|---|---|---|
+| **🎥 Rumo** | Self-hosted video meetings — share a link, no accounts, no per-seat pricing | `WebRTC` `Socket.IO` `React` `Node` `Postgres` | [GitHub →](https://github.com/BrahmjotSingh0/rumo) |
 | **📄 Quick Resume** | Instant resume generator with clean export templates | `React` `Node` `Express` | [Live →](https://quickresumehack.netlify.app/) |
 | **🤖 AI Resume Builder** | AI-assisted resume creation powered by Gemini | `MERN` `Gemini AI` | [Live →](https://aibuildresume.netlify.app/) |
 | **🌐 Postitup** | Social platform with Google OAuth & feeds | `React` `MongoDB` `Node` | [Live →](https://postitup.netlify.app/) |
@@ -133,7 +134,6 @@ console.log(`👋 Hey, I'm ${brahmjot.name} — let's build something great.`);
 | **💰 Auction Tax Calculator** | Tax calculator for Hypixel Skyblock traders | `React` | [Live →](https://auction-tax.netlify.app/) |
 | **🛠️ Utility Tools** | Growing collection of daily-use dev tools | `React` | [Live →](https://tools-utility.netlify.app/) |
 | **💬 Wapp** | Fake WhatsApp conversation generator for mockups | `React` | [Live →](https://fakemessagetoolwhats-app.netlify.app/) |
-
 <details>
 <summary><b>🚧 In Progress</b></summary>
 
