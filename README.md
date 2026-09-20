@@ -126,6 +126,7 @@ console.log(`👋 Hey, I'm ${brahmjot.name} — let's build something great.`);
 | Project | What it does | Stack | |
 |---|---|---|---|
 | **🎥 Rumo** | Self-hosted video meetings — share a link, no accounts, no per-seat pricing | `WebRTC` `Socket.IO` `React` `Node` `Postgres` | [GitHub →](https://github.com/BrahmjotSingh0/rumo) |
+| **🕐 TimeCount** | Tracks the time you spend in VS Code. | `Javascript` `Vscode` | [GitHub →](https://github.com/BrahmjotSingh0/timecount) |
 | **📄 Quick Resume** | Instant resume generator with clean export templates | `React` `Node` `Express` | [Live →](https://quickresumehack.netlify.app/) |
 | **🤖 AI Resume Builder** | AI-assisted resume creation powered by Gemini | `MERN` `Gemini AI` | [Live →](https://aibuildresume.netlify.app/) |
 | **🌐 Postitup** | Social platform with Google OAuth & feeds | `React` `MongoDB` `Node` | [Live →](https://postitup.netlify.app/) |
