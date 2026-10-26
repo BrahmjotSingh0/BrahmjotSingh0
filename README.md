@@ -161,22 +161,9 @@ console.log(`👋 Hey, I'm ${brahmjot.name} — let's build something great.`);
 
 <div align="center">
 
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BrahmjotSingh0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true&count_private=true" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrahmjotSingh0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" /> -->
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=BrahmjotSingh0&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
-
-<br/><br/>
-
-<!-- <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrahmjotSingh0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true" /> -->
-
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=BrahmjotSingh0&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=BrahmjotSingh0&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BrahmjotSingh0&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ══════════════════ TROPHIES ══════════════════ -->
 
